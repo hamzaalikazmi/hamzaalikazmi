@@ -5,7 +5,7 @@
 
 <br>
 
-<h1 align="left">Hamza Kazmi</h1>
+<h1 align="left">Hamza Ali Kazmi</h1>
 
 💻 Full-Stack & Mobile Developer building scalable, enterprise-grade applications.
 
