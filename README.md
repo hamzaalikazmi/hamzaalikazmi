@@ -60,7 +60,7 @@ A Flutter-based cross-platform mobile application designed to automate receipt s
 
 ---
 
-## 🐍 Contribution Snake
+
 
 
 
