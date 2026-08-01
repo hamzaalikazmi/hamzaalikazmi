@@ -62,12 +62,7 @@ A Flutter-based cross-platform mobile application designed to automate receipt s
 
 ## 🐍 Contribution Snake
 
-<div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
 
 ---
 
