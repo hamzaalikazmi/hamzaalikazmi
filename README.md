@@ -109,19 +109,6 @@ A Flutter-based cross-platform mobile application designed to automate receipt s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
-
-<br><br>
-
-<!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" />
-
-</div>
 
 ---
 
