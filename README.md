@@ -1,6 +1,5 @@
 <div align="center">
   <!-- You can replace this image link with your own banner if you have one -->
-  <img src="https://i.postimg.cc/hPkRqb5t/Chat-GPT-Image-May-16-2026-09-07-28-PM.png" alt="Hamza Kazmi Banner" width="100%" />
 </div>
 
 <br>
